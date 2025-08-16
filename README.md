@@ -8,10 +8,10 @@ Examples you can try:
 - a man, a plan, a canal, Panama  
 
 ## Features
-° Handles case insensitivity and punctuation stripping.  
-° Live user input validation and immediate feedback.  
-° Clean, simple styling for quick readability.  
-° Touches on string manipulation and regex.
+- Handles case insensitivity and punctuation stripping.
+- Live user input validation and immediate feedback.
+- Clean, simple styling for quick readability.
+- Touches on string manipulation and regex.
 
 ## Live Demo
 [Click here to see the project in action](https://juanman2099.github.io/Palindrome-Checker/)
